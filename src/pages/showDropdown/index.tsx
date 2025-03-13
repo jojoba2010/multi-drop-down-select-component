@@ -53,12 +53,8 @@ const ShowDropdown=()=> {
           onChange={onChangeDropdown} 
           onNewItemAdded={onNewItemAdded}   
           defaultValue={[{
-            label: 'Games',
-            value: 'games',
-          },
-          {
-            label: 'Health',
-            value: 'Health',
+            label: 'Science',
+            value: 'science',
           }]}
           /> );
 }
