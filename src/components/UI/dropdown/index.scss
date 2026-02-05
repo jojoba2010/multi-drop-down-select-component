@@ -112,8 +112,10 @@
       &:active {
         background-color: rgba(0, 0, 0, 0.04);
       }
-      .img {
+      img {
         width: 15px;
+        height: 15px;
+        object-fit: contain;
       }
     }
     .select-item-options-selected {

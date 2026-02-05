@@ -1,6 +1,5 @@
 declare const styles: {
   readonly "display-none": string;
-  readonly "img": string;
   readonly "select-arrow": string;
   readonly "select-arrow-container": string;
   readonly "select-arrow-down": string;
